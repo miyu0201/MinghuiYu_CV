@@ -1,5 +1,10 @@
 # Carolyn Stransky
-
+<img
+  src="https://user-images.githubusercontent.com/72608044/197215798-c6a8d7e7-4832-48fa-8ff0-f648322819a5.png"
+  alt="Alt text"
+  title="Optional title"
+  style="width:100px; margin: 0;">
+  <br>
 _Software engineer and journalist based in Berlin 🇩🇪_ <br>
 
 [Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
